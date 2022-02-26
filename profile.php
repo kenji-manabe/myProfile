@@ -11,10 +11,10 @@ class Profile
     echo " 眞鍋 賢司";
     
     echo "Job:";
-    echo "　プログラマ";
+    echo " プログラマ";
     
     echo "Company:";
-    echo "　KeepAlive株式会社";
+    echo " KeepAlive株式会社";
     
     echo "sellingPoint:";
     echo " 身長180センチ";
